@@ -13,12 +13,12 @@ Ratskeller - a cellar in a German town hall in which beer is sold
 Dirndel - feminine dress which originated in German-speaking areas of the Alps
 Lederhose - "leather breeches"/ traditional german clothing
 Schloss - lock
-wettbewerbsfaehig = competitive
+wettbewerbsfaehig - competitive
 Mehlhase 
-Gebaeck
-Baeckerei 
-Hund 
-Doener 
-Apfelkuchen 
-Schloss
+Gebaeck -pastries
+Baeckerei - Bakery
+Hund - Dog
+Doener - Doner
+Apfelkuchen - Apple Cake
+Schloss - Lock
 Eltz
