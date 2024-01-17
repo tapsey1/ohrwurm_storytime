@@ -7,13 +7,13 @@ Brot
 Klimaanlage 
 Rammstein 
 Porsche
-BMW 
+BMW
 Biergarten 
 Ratskeller 
 Dirndel 
 Lederhose 
 Schloss 
-wettbewerbsfaehig
+wettbewerbsfaehig = competitive
 Mehlhase 
 Gebaeck
 Baeckerei 
